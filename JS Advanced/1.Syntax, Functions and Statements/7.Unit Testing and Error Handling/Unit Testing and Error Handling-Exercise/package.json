@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.1"
+  },
+  "name": "unit-testing-and-error-handling-exercise",
+  "version": "1.0.0",
+  "main": "even-or-odd.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
